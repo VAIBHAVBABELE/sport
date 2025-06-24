@@ -1,0 +1,29 @@
+/* Custom Styles */
+.hero-section {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+    padding: 100px 0;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+}
+
+.about-section, .user-home-section, .admin-dashboard-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.login-section, .register-section, .forgot-password-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
